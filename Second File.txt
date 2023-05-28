@@ -1,3 +1,5 @@
 Third Change in file
 
 Modified this file
+
+I am in Developed branch and i am learning 3 ways merge
