@@ -1,5 +1,5 @@
 Third Change in file
 
 Modified this file
-
-i have editted this file i main branch to learn 3 way merge
+I am in Developed branch and i am learning 3 ways merge
+i have editted this file in main branch to learn 3 way merge
