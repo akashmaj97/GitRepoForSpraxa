@@ -13,4 +13,8 @@ Learning Revert
 
 I am changing this again
 =======
+>>>>>>> parent of bf1<<<<<<< .mine
 >>>>>>> parent of bf1c3ae (Merge branch 'develop')
+=======
+
+>>>>>>> .theirs
