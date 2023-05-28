@@ -1,3 +1,5 @@
 Third Change in file
 
 Modified this file
+
+i have editted this file i main branch to learn 3 way merge
