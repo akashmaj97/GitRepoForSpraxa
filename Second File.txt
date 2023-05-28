@@ -3,18 +3,4 @@ Third Change in file
 Modified this file
 
 I am in Developed branch and i am learning 3 ways merge
-<<<<<<< HEAD
-i have editted this file in main branch to learn 3 way merge
-
-Learning Revert
-
-I am changing t
-Learning Revert
-
-I am changing this again
-=======
->>>>>>> parent of bf1<<<<<<< .mine
->>>>>>> parent of bf1c3ae (Merge branch 'develop')
-=======
-
->>>>>>> .theirs
+i have editted this file in main branch to learn 3 way merged this commit
