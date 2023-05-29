@@ -3,8 +3,4 @@ Third Change in file
 Modified this file
 
 I am in Developed branch and i am learning 3 ways merge
-i have editted this file in main branch to learn 3 way merged this commit
-
-
-
-i am doing more changes to see some revert features
+i have editted this file in main branch to learn 3 way merged this commit 
